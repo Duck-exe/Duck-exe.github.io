@@ -10,7 +10,7 @@
 
 ### Website Preview
 #### Home Page
-<img src="GitHub-gif-Daksh.gif" width="900">
+<img src="GitHub-Video-Daksh.mp4" width="900">
 
 
 #### About Page
